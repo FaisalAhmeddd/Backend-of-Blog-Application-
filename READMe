@@ -1,0 +1,10 @@
+This project deals with complete backend implementation of blog application
+tools and technologies used:
+-Springboot
+-Swagger
+-Java
+IDE - STS
+Authentication type - Jwt Authentication
+Hosted on Aws cloud
+
+link : http://blogfirst-env.eba-zqxwcwes.ap-northeast-1.elasticbeanstalk.com/swagger-ui/index.html#/
